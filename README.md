@@ -18,11 +18,11 @@ A2 :   Solving ODE's<br>
                &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3. Varlet Method ( An effective method to solve equations of motion ) <br>
               
 A3 : Solving PDE's <br> 
-  &nbsp;&nbsp;&nbsp;&nbsp 3_1 : Solving 1D Diffusion problem using <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;3_1 : Solving 1D Diffusion problem using <br> 
     &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;1. FTCS (Forward Time Centered Space)<br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2. BTCS(Backward Time Centered Space)<br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;3. Crank- Nicolson Method<br> 
-       &nbsp;&nbsp;&nbsp;&nbsp 3_2: Solving 1-D heat Equation with Neumann boundary conditions using<br> 
+       &nbsp;&nbsp;&nbsp;&nbsp;3_2: Solving 1-D heat Equation with Neumann boundary conditions using<br> 
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;1. Implicit<br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 2.Explicit <br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.Crank-Nicolson Methods<br>

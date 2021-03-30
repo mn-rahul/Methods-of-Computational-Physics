@@ -26,5 +26,12 @@ A3 : Solving PDE's <br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;1. Implicit<br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 2.Explicit <br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.Crank-Nicolson Methods<br>
+      
+A5 : Monte Carlo Methods <br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;5_1 : Integrating using Monte carlo Method<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;5_2 : Integrating using Metropolis Algorithm <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;5_3 : Isng Model using Metropolis Hastings Algorithm <br>
+ 
+A6 : Molecular Dynamics of FCC Lattice, L-J Potential using variational Methods
        
 

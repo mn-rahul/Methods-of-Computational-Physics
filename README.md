@@ -7,7 +7,7 @@ methods to find roots, solutions, solving ODE, PDE, Monte carlo methods, Variati
 
 A1 - Bound States for a finite potential well by solving the Transcendental equations
 
-A2 :
+A2 : <br>
      2_1 : Solving ODE's using <br>
               1.Euler Method <br>
               2.Runge Kutta 2nd order <br>

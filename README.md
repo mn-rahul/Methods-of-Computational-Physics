@@ -7,8 +7,8 @@ methods to find roots, solutions, solving ODE, PDE, Monte carlo methods, Variati
 
 A1 - Bound States for a finite potential well by solving the Transcendental equations
 
-A2 :   Solving ODE's
-   &nbsp  &nbsp &nbsp;&nbsp; 2_1 : Solving ODE's using <br>
+A2 :   Solving ODE's<br>
+   &nbsp;&nbsp;&nbsp;&nbsp; 2_1 : Solving ODE's using <br>
                 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 1.Euler Method <br>
                 &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 2.Runge Kutta 2nd order <br>
                &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3.Runge Kutta 4th order <br>              
@@ -17,7 +17,7 @@ A2 :   Solving ODE's
                &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  2. Runge Kutta Method <br>
                &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 3. Varlet Method ( An effective method to solve equations of motion ) <br>
               
-A3 : Solving PDE's 
+A3 : Solving PDE's <br> 
   &nbsp;&nbsp;&nbsp;&nbsp 3_1 : Solving 1D Diffusion problem using <br> 
     &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;1. FTCS (Forward Time Centered Space)<br>
        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;2. BTCS(Backward Time Centered Space)<br>
